@@ -1,0 +1,22 @@
+{
+  "name": "dictionary-cli",
+  "version": "1.0.0",
+  "description": "A program which uses the Oxford Dictionary API. The dictionary should give the definition of any given word.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florianbux/dictionary-cli.git"
+  },
+  "author": "Florian Bux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florianbux/dictionary-cli/issues"
+  },
+  "homepage": "https://github.com/florianbux/dictionary-cli#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
